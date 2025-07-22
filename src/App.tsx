@@ -12,7 +12,7 @@ const App = () => {
       </h1>
 
       <p className="text-lg text-gray-300 mb-8 text-center max-w-2xl px-4">
-        Below is a basic 3D scene with a spinning cube.
+        Below a basic 3D scene with a spinning cube.
       </p>
 
       {/* 3D Canvas Container */}
