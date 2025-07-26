@@ -1,5 +1,5 @@
 const Box = () => {
-  return <div>Box</div>;
+  return <section>Box</section>;
 };
 
 export default Box;
