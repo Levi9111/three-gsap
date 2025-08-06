@@ -15,7 +15,6 @@ const App = () => {
         Below a basic 3D scene with a spinning cube.
       </p>
 
-      {/* 3D Canvas Container */}
       <div className="w-full max-w-4xl h-96 bg-gray-800 rounded-xl shadow-lg overflow-hidden">
         <Canvas
           camera={{ fov: 75, position: [0, 0, 5] }}
